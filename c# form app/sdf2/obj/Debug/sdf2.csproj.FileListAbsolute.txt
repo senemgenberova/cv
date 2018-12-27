@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\sdf2\sdf2\bin\Debug\sdf2.exe.config
+C:\Users\User\source\repos\sdf2\sdf2\bin\Debug\sdf2.exe
+C:\Users\User\source\repos\sdf2\sdf2\bin\Debug\sdf2.pdb
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.Form1.resources
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.exe
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.pdb
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.Form2.resources
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.Form3.resources
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.Form4.resources
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.Single.resources
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.Properties.Resources.resources
+C:\Users\User\source\repos\sdf2\sdf2\obj\Debug\sdf2.Mail.resources
+C:\Users\User\source\repos\sdf2\sdf2\bin\Debug\OpenPop.dll
